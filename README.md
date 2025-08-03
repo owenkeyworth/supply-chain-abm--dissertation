@@ -1,4 +1,4 @@
-# Finisterre Supply Chain Agent-Based Modelling (ABM) Project
+# Agent-Based Modelling of Macroeconomic Shock Propagation in Sustainable Fashion Supply Chains
 
 ## Dissertation Project Overview
 
